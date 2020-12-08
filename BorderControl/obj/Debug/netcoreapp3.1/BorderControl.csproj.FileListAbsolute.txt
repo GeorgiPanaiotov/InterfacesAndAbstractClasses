@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\InterfaceAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+C:\Users\ThinkPad\source\repos\InterfaceAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+C:\Users\ThinkPad\source\repos\InterfaceAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\InterfaceAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\InterfaceAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+C:\Users\ThinkPad\source\repos\InterfaceAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Users\ThinkPad\source\repos\InterfaceAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\InterfaceAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\InterfaceAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\InterfaceAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+C:\Users\ThinkPad\source\repos\InterfaceAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Users\ThinkPad\source\repos\InterfaceAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache
+C:\Users\ThinkPad\source\repos\InterfaceAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csprojAssemblyReference.cache
